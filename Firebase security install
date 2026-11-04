@@ -1,1 +1,1 @@
-npm install firebaseui --save
+npm install firebase @firebase-oss/ui-react@beta @firebase-oss/ui-styles
