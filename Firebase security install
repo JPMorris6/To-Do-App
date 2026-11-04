@@ -1,1 +1,3 @@
 npm install firebase @firebase-oss/ui-react@beta @firebase-oss/ui-styles
+npm install react react-dom
+npm install --save-dev @types/react @types/react-dom
