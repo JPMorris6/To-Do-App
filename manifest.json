@@ -1,0 +1,17 @@
+{
+  "name": "My Tasks",
+  "short_name": "Tasks",
+  "description": "Personal task and deadline tracker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#eef1ec",
+  "theme_color": "#2b6f8e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
